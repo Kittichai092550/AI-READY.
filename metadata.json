@@ -1,0 +1,6 @@
+{
+  "name": "AI READY — รู้ทัน AI ใช้เป็นอย่างสร้างสรรค์",
+  "description": "สื่อมัลติมีเดียแอปพลิเคชันเพื่อการเรียนรู้ด้วย AI Vibe Coding: เข้าใจ AI ตรวจสอบเป็น สร้างสรรค์อย่างรับผิดชอบ พร้อมโครงงาน CPS 5 ขั้นตอน",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
